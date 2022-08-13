@@ -1,0 +1,1739 @@
+
+	  	
+	
+Code d'activité économique (CAE)
+	
+	
+ 
+	
+	
+
+Un code d'activité économique (CAE) est un code à quatre chiffres qui désigne un secteur d'activité.
+
+Appuyez simultanément sur les touches « CTRL » et « F » pour effectuer une recherche par mot-clé.
+
+Note
+
+* Ces codes d’activité économique ne peuvent être utilisés que par les professionnels membres de l’ordre professionnel visé.
+
+** Ce code d’activité économique ne peut être utilisé que par les titulaires d’un permis de courtage immobilier valide exigé pour la pratique de telles activités et délivré par l'Organisme d'autoréglementation du courtage immobilier du Québec.
+
+*** Ce code d’activité économique ne peut être utilisé que par les titulaires d’un certificat de courtier hypothécaire valide délivré par l’Autorité des marchés financiers conformément à la Loi sur la distribution de produits et de services financiers.
+Agriculture
+ 
+Élevage du bétail et de la volaille
+0111 	Élevage de vaches laitières
+0112 	Élevage de bovins de boucherie
+0113 	Élevage de porcs
+0114 	Élevage de la volaille
+0115 	Élevage de moutons et de chèvres
+0119 	Élevage mixte du bétail et de la volaille
+ 
+Autres élevages
+0121 	Apiculture
+0122 	Élevage d'animaux à fourrure
+0129 	Autres élevages
+ 
+Grandes cultures
+0131 	Culture des céréales
+0134 	Culture du maïs (sauf le maïs fourrager et le maïs sucré)
+0135 	Culture de plantes fourragères
+0137 	Culture du tabac
+0138 	Culture de la pomme de terre
+0139 	Autres grandes cultures
+ 
+Culture des fruits et des légumes
+0151 	Culture des fruits
+0152 	Culture des légumes
+0159 	Culture mixte des fruits et des légumes
+ 
+Horticulture (sauf la culture des fruits et des légumes)
+0161 	Culture des champignons
+0162 	Culture en serre
+0163 	Exploitation d'une pépinière ou d'une gazonnière
+0164 	Érablière
+0169 	Autres spécialités horticoles
+ 
+Élevages, grandes cultures et productions horticoles
+0171 	Élevages, grandes cultures et productions horticoles
+ 
+Services relatifs à l'agriculture
+ 
+Services relatifs à l'élevage
+0211 * 	Médecine vétérinaire
+0212 	Services de reproduction des animaux de ferme (sauf la volaille)
+0213 	Services relatifs à l'élevage de la volaille
+0219 	Autres services relatifs à l'élevage (sauf à l'élevage de la volaille)
+ 
+Services relatifs aux cultures
+0221 	Services de préparation, d'ensemencement et de travail des sols
+0222 	Services de poudrage et de pulvérisation des cultures (sauf par aéronef) 	
+0223 * 	Services de moissonnage, de pressage et de battage
+0229 	Autres services relatifs aux cultures
+ 
+Autres services relatifs à l'agriculture
+0231 	Services de gestion agricole et d'experts-conseils
+0232 	Services de recherche en agriculture
+0233 * 	Agronomes
+ 
+Pêche et piégeage
+ 
+Pêche 	
+0311 	Pêche en eau salée
+0312 	Pêche en eau douce
+0313 	Pisciculture, conchyliculture et élevage de grenouilles
+ 
+Services relatifs à la pêche
+0321 	Services relatifs à la pêche
+ 
+Piégeage 	
+0331 	Fourrures et peaux d'animaux sauvages
+0339 	Autres activités de piégeage
+ 
+Exploitation forestière
+ 
+Exploitation forestière
+0411 	Exploitation forestière (sauf à contrat)
+0412 	Exploitation forestière à contrat
+ 
+Services forestiers
+ 
+Services forestiers
+0511 	Services forestiers
+ 
+Mines 	
+ 
+Mines de métaux
+0611 	Mines d'or
+0612 	Mines de cuivre
+0614 	Mines de zinc
+0617 	Mines de fer
+0619 	Autres mines de métaux
+ 
+Mines de minerais non métalliques (sauf le charbon)
+0621 	Mines d'amiante
+0622 	Tourbières
+0623 	Mines de feldspath et quartz
+0625 	Mines de sel
+0627 	Mines de talc
+0629 	Autres mines de minerais non métalliques (sauf le charbon)
+ 
+Extraction du pétrole et du gaz naturel
+ 
+Extraction du pétrole et du gaz naturel
+0711 	Extraction du pétrole et du gaz naturel
+ 
+Carrières et gravières
+ 
+Carrières 	
+0811 	Carrières de granite
+0812 	Carrières de calcaire
+0813 	Carrières de marbre
+0814 	Carrières de grès
+0815 	Carrières de schiste
+ 
+Sablières et gravières
+0821 	Sablières et gravières
+ 
+Services miniers
+ 
+Services relatifs à l'extraction du pétrole et du gaz naturel
+0911 	Forage à forfait de puits de pétrole et de gaz naturel
+0919 	Autres services relatifs à l'extraction du pétrole et du gaz naturel
+ 
+Services relatifs à l'extraction minière
+0921 	Forage à forfait (sauf pétrole et gaz)
+0929 	Autres services relatifs à l'extraction minière
+ 
+Industries des aliments
+ 
+Industries de l'abattage et du conditionnement de la viande
+1011 	Industrie de l'abattage et du conditionnement de la viande (sauf la volaille) 	
+1012 	Industrie de l'abattage et du conditionnement de la volaille
+1019 	Industrie des boyaux à saucisses naturels
+ 
+Industrie de la transformation du poisson
+1021 	Industrie de la transformation du poisson
+ 
+Industries de la préparation des fruits et légumes
+1031 	Conserveries de fruits et légumes
+1032 	Industrie des fruits et légumes congelés
+1039 	Industrie des produits alimentaires à base de fruits et légumes
+ 
+Industries des produits laitiers
+1041 	Industrie du lait de consommation
+1049 	Autres industries de produits laitiers
+ 
+Industries de la farine et des céréales de table préparées
+1051 	Meuneries
+1052 	Industrie des mélanges à base de farine et des céréales de table préparées 	
+ 
+Industrie des aliments pour animaux
+1061 	Industrie des aliments pour animaux
+ 
+Industries des produits de boulangerie et de pâtisserie
+1071 	Industrie des biscuits
+1072 	Industrie du pain et des autres produits de boulangerie-pâtisserie
+ 
+Industries du sucre et des confiseries
+1081 	Industrie du sucre de canne et de betterave
+1083 	Industrie des confiseries et du chocolat
+ 
+Autres industries de produits alimentaires
+1091 	Industrie du thé et du café
+1092 	Industrie des pâtes alimentaires
+1093 	Industrie des croustilles, des bretzels et du maïs soufflé
+1099 	Autres industries de produits alimentaires
+ 
+Industries des boissons
+ 
+Industrie des boissons gazeuses
+1111 	Industrie des boissons gazeuses
+ 
+Industrie des alcools destinés à la consommation
+1121 	Industrie des alcools destinés à la consommation
+ 
+Industrie de la bière
+1131 	Industrie de la bière
+ 
+Industrie du vin et du cidre
+1141 	Industrie du vin et du cidre
+ 
+Industries du tabac
+ 
+Industrie du tabac en feuilles
+1211 	Industrie du tabac en feuilles
+ 
+Industrie des produits du tabac
+1221 	Industrie des produits du tabac
+ 
+Industries des produits du caoutchouc
+ 
+Industrie des pneus et chambres à air
+1511 	Industrie des pneus et chambres à air
+ 
+Industrie des boyaux et courroies en caoutchouc
+1521 	Industrie des boyaux et courroies en caoutchouc
+ 
+Autres industries de produits en caoutchouc
+1599 	Autres industries de produits en caoutchouc
+ 
+Industries des produits en matière plastique
+ 
+Industrie des produits en matière plastique en mousse et soufflée
+1611 	Industrie des produits en matière plastique en mousse et soufflée
+ 
+Industrie des tuyaux et raccords de tuyauterie en matière plastique
+1621 	Industrie des tuyaux et raccords de tuyauterie en matière plastique
+ 
+Industrie des pellicules et feuilles en matière plastique
+1631 	Industrie des pellicules et feuilles en matière plastique
+ 
+Industrie des produits en matière plastique stratifiée sous pression ou renforcée 	
+1641 	Industrie des produits en matière plastique stratifiée sous pression ou renforcée 	
+ 
+Industrie des produits d'architecture en matière plastique
+1651 	Industrie des produits d'architecture en matière plastique
+ 
+Industrie des contenants en matière en plastique (sauf en mousse)
+1661 	Industrie des contenants en matière plastique (sauf en mousse)
+ 
+Autres industries de produits en matière plastique
+1691 	Autres industries de sacs en matière plastique
+1699 	Autres industries de produits en matière plastique
+ 
+Industries du cuir et des produits connexes
+ 
+Industries du cuir et des produits connexes
+1711 	Tanneries
+1712 	Industrie de la chaussure
+1713 	Industrie des valises, bourses et sacs à main
+1714 	Industrie des accessoires pour bottes et chaussures
+1719 	Autres industries du cuir et des produits connexes
+ 
+Industries textiles de première transformation
+ 
+Industrie des fibres synthétiques et des filés de filaments
+1811 	Industrie des fibres synthétiques et des filés de filaments
+ 
+Industries des filés et tissus tissés
+1821 	Industrie de la filature et du tissage de la laine
+1822 	Industrie de la filature et du tissage du coton
+1824 	Industrie du tissage de fibres synthétiques
+1829 	Autres industries des filés et tissus tissés
+ 
+Industrie des tissus tricotés
+1831 	Industrie des tissus tricotés
+ 
+Industries des produits textiles
+ 
+Industrie du feutre et du traitement des fibres naturelles
+1911 	Industrie du feutre et du traitement des fibres naturelles
+ 
+Industrie des tapis, carpettes et moquettes
+1921 	Industrie des tapis, carpettes et moquettes
+ 
+Industries des articles en grosse toile
+1931 	Industrie des articles en grosse toile
+1932 	Industrie des sacs et poches en matière textile
+ 
+Autres industries des produits textiles
+1991 	Industrie des tissus étroits
+1992 	Industrie de la teinture et du finissage à façon de produits textiles
+1993 	Industrie des articles de maison en textile
+1994 	Industrie des articles d'hygiène en textile
+1995 	Industrie des tissus pour armature de pneus
+1996 	Industrie du fil
+1999 	Autres industries de produits textiles
+ 
+Industries de l'habillement
+ 
+Industries des vêtements pour hommes
+2431 	Industrie des manteaux pour hommes
+2432 	Industrie des complets et vestons pour hommes
+2433 	Industrie des pantalons pour hommes
+2434 	Industrie des chemises, vêtements de nuit et sous-vêtements pour hommes 	
+2435 	Industrie de la confection à forfait de vêtements pour hommes
+ 
+Industries des vêtements pour femmes
+2441 	Industrie des manteaux et vestes pour femmes
+2442 	Industrie des vêtements de sport pour femmes
+2443 	Industrie des robes pour femmes
+2444 	Industrie des blouses et chemisiers pour femmes
+2445 	Industrie des sous-vêtements et vêtements de nuit pour femmes
+2446 	Industrie de la confection à forfait de vêtements pour femmes
+ 
+Industries des vêtements pour enfants
+2451 	Industrie des vêtements pour enfants
+2453 	Industrie des sous-vêtements et vêtements de nuit pour enfants
+2454 	Industrie de la confection à forfait pour enfants
+ 
+Autres industries de l'habillement
+2491 	Industrie des chandails
+2492 	Industrie des vêtements professionnels
+2493 	Industrie des gants
+2494 	Industrie des bas et chaussettes
+2495 	Industrie des articles en fourrure
+2496 	Industrie des vêtements de base
+2497 	Industrie des chapeaux (sauf en fourrure)
+2499 	Autres industries de l'habillement
+ 
+Industries du bois
+ 
+Industries du bois de sciage et des bardeaux
+2511 	Industrie du bardeau et du bardeau fendu
+2512 	Industrie des produits de scieries et d'ateliers de rabotage (sauf les bardeaux et les bardeaux fendus) 	
+ 
+Industries des placages et contre-plaqués
+2521 	Industrie des placages en bois de feuillus et de résineux
+2522 	Industrie des contre-plaqués de feuillus et de résineux
+ 
+Industries des portes, châssis et autres bois travaillés
+2541 	Industrie des bâtiments préfabriqués à charpente de bois
+2542 	Industrie des armoires et placards de cuisine et des coiffeuses de salle de bain en bois 	 
+2543 	Industrie des portes et fenêtres en bois
+2544 	Industrie d'éléments de charpente en bois
+2545 	Industrie des parquets en bois dur
+2549 	Autres industries du bois travaillé
+ 
+Industrie des boîtes et palettes en bois
+2561 	Industrie des boîtes et palettes en bois
+ 
+Industrie des cercueils
+2581 	Industrie des cercueils
+ 
+Autres industries du bois
+2591 	Industrie de la préservation du bois
+2592 	Industrie du bois tourné et façonné
+2593 	Industrie des panneaux agglomérés
+2599 	Autres industries du bois
+ 
+Industries du meuble et des articles d'ameublement
+ 
+Industries des meubles de maison
+2611 	Industrie des meubles de maison en bois
+2612 	Industrie des meubles de maison rembourrés
+2619 	Autres industries des meubles de maison
+ 
+Industries des meubles de bureau
+2641 	Industrie des meubles de bureau en métal
+2642 	Industrie des meubles de bureau en bois
+2649 	Autres industries des meubles de bureau
+ 
+Autres industries du meuble et des articles d'ameublement
+2691 	Industrie des sommiers et matelas
+2692 	Industrie des meubles et articles d'ameublement pour hôtels, restaurants et institutions 	 
+2693 	Industrie des meubles de jardin
+2694 	Industrie des rayonnages et des armoires de sûreté
+2695 	Industrie des cadres
+2699 	Autres industries du meuble et des articles d'ameublement
+ 
+Industries du papier et des produits en papier
+ 
+Industries des pâtes et papiers
+2711 	Industrie des pâtes à papier
+2712 	Industrie du papier journal
+2713 	Industrie du carton
+2714 	Industrie des panneaux et du papier de construction
+2719 	Autres industries du papier
+ 
+Industrie du papier à couverture asphalté
+2721 	Industrie du papier à couverture asphalté
+ 
+Industries des boîtes en carton et des sacs en papier
+2731 	Industrie des boîtes pliantes et rigides
+2732 	Industrie des boîtes en carton ondulé
+2733 	Industrie des sacs en papier
+ 
+Autres industries des produits en papier transformé
+2791 	Industrie des papiers couchés ou traités
+2792 	Industrie des produits de papeterie
+2793 	Industrie des produits de consommation en papier
+2799 	Autres industries des produits en papier transformé
+ 
+Imprimerie, édition et industries connexes
+ 
+Industries de l'impression commerciale
+2811 	Industrie de l'impression de formulaires commerciaux
+2812 	Industrie de l'impression des journaux, revues, périodiques et livres
+2819 	Autres industries d'impression commerciale
+ 
+Industrie du clichage, de la composition et de la reliure
+2821 	Industrie du clichage, de la composition et de la reliure
+ 
+Industries de l'édition
+2831 	Industrie de l'édition du livre
+2839 	Autres industries de l'édition
+ 
+Industries de l'impression et de l'édition combinées
+2841 	Industrie des journaux (impression et édition combinées)
+2849 	Autres industries d'impression et d'édition combinées
+ 
+Industrie du progiciel
+2851 	Industrie du progiciel
+ 
+Industries de première transformation des métaux
+ 
+Industries sidérurgique
+2911 	Industrie des ferro-alliages
+2912 	Fonderies d'acier
+2919 	Autres industries sidérurgiques
+ 
+Industrie des tubes et tuyaux d'acier
+2921 	Industrie des tubes et tuyaux d'acier
+ 
+Fonderies de fer
+2941 	Fonderies de fer
+ 
+Industries de la fonte et de l'affinage des métaux non ferreux
+2951 	Industrie de la production d'aluminium de première fusion
+2959 	Autres industries de la fonte et de l'affinage des métaux non ferreux
+ 
+Industries du laminage, du moulage et de l'extrusion de l'aluminium
+2961 	Industrie du laminage de l'aluminium
+2962 	Industrie du moulage et de l'extrusion de l'aluminium
+ 
+Industrie du laminage, du moulage et de l'extrusion du cuivre et de ses alliages 	
+2971 	Industrie du laminage, du moulage et de l'extrusion du cuivre et de ses alliages 	
+ 
+Autres industries du laminage, du moulage et de l'extrusion des métaux non ferreux 	
+2999 	Autres industries du laminage, du moulage et de l'extrusion des métaux non ferreux 	
+ 
+Industries de la fabrication des produits métalliques (sauf les industries de la machinerie et du matériel de transport)
+ 
+Industrie des produits en tôle forte
+3011 	Industrie des produits en tôle forte
+ 
+Industries des produits de construction en métal
+3021 	Industrie des bâtiments préfabriqués en métal (sauf transportables)
+3029 	Autres industries de la fabrication d'éléments de charpentes métalliques 	
+ 
+Industries des produits métalliques d'ornement et d'architecture
+3031 	Industrie des portes et fenêtres en métal
+3032 	Industrie des bâtiments préfabriqués en métal transportables
+3039 	Autres industries des produits métalliques d'ornement et d'architecture 	
+ 
+Industries de l'emboutissage, du matriçage et du revêtement de produits en métal 	
+3041 	Industrie du revêtement sur commande de produits en métal
+3042 	Industrie des récipients et fermetures en métal
+3043 	Industrie de la tôlerie pour l'aéraulique
+3049 	Autres industries de l'emboutissage et du matriçage de produits en métal 	
+ 
+Industries du fil métallique et de ses produits
+3051 	Industrie des ressorts de rembourrage et des ressorts à boudin
+3052 	Industrie des fils et des câbles métalliques
+3053 	Industrie des attaches d'usage industriel
+3059 	Autres industries des produits en fil métallique
+ 
+Industries des articles de quincaillerie, d'outillage et de coutellerie
+3061 	Industrie de la quincaillerie de base
+3062 	Industrie des matrices, des moules et des outils tranchants et à profiler en métal 	
+3063 	Industrie de l'outillage à main
+3069 	Industrie de la coutellerie et des autres articles de quincaillerie ou d'outillage 	
+ 
+Industrie du matériel de chauffage
+3071 	Industrie du matériel de chauffage
+ 
+Ateliers d'usinage
+3081 	Ateliers d'usinage
+ 
+Autres industries de produits en métal
+3091 	Industrie des garnitures et raccords de plomberie en métal
+3092 	Industrie des soupapes en métal
+3099 	Autres industries de produits en métal
+ 
+Industries de la machinerie (sauf électrique)
+ 
+Industrie des instruments aratoires
+3111 	Industrie des instruments aratoires
+ 
+Industrie du matériel commercial de réfrigération et de climatisation
+3121 	Industrie du matériel commercial de réfrigération et de climatisation
+ 
+Autres industries de la machinerie et de l'équipement
+3191 	Industrie des compresseurs, pompes et ventilateurs
+3192 	Industrie de l'équipement de manutention
+3193 	Industrie de la machinerie pour récolter, couper et façonner le bois
+3194 	Industrie des turbines et du matériel de transmission d'énergie mécanique 	
+3195 	Industrie de la machinerie pour l'industrie des pâtes et papiers
+3196 	Industrie de la machinerie et du matériel de construction et d'entretien
+3199 	Autres industries de la machinerie et de l'équipement
+ 
+Industries du matériel de transport
+ 
+Industrie des aéronefs et des pièces d'aéronefs
+3211 	Industrie des aéronefs et des pièces d'aéronefs
+ 
+Industrie des véhicules automobiles
+3231 	Industrie des véhicules automobiles
+ 
+Industries des carrosseries de camions, d'autobus et de remorques
+3241 	Industrie des carrosseries de camions et d'autobus
+3242 	Industrie des semi-remorques et remorques d'usage commercial
+3243 	Industrie des remorques d'usage non commercial
+3244 	Industrie des maisons mobiles
+ 
+Industries des pièces et accessoires pour véhicules automobiles
+3251 	Industrie des moteurs et pièces de moteurs de véhicules automobiles
+3254 	Industrie des pièces pour systèmes de direction et de suspension de véhicules automobiles 	 
+3255 	Industrie des roues et des freins pour véhicules automobiles
+3256 	Industrie des pièces et accessoires en matière plastique pour véhicules automobiles 	 
+3257 	Industrie des accessoires en matière textile pour véhicules automobiles 	
+3259 	Autres industries des pièces et accessoires pour véhicules automobiles 	
+ 
+Industrie du matériel ferroviaire roulant
+3261 	Industrie du matériel ferroviaire roulant
+ 
+Industrie de la construction et de la réparation de navires
+3271 	Industrie de la construction et de la réparation de navires
+ 
+Industrie de la construction et de la réparation d'embarcations
+3281 	Industrie de la construction et de la réparation d'embarcations
+ 
+Autres industries du matériel de transport
+3299 	Autres industries du matériel de transport
+ 
+Industries des produits électriques et électroniques
+ 
+Industrie des petits appareils électroménagers
+3311 	Industrie des petits appareils électroménagers
+ 
+Industrie des gros appareils (électriques ou non)
+3321 	Industrie des gros appareils (électriques ou non)
+ 
+Industries des appareils d'éclairage
+3331 	Industrie des appareils d'éclairage pour immeubles
+3332 	Industrie des luminaires pour résidences
+3333 	Industrie des lampes électriques (ampoules et tubes)
+3339 	Autres industries des appareils d'éclairage
+ 
+Industrie du matériel électronique ménager
+3341 	Industrie du matériel électronique ménager
+ 
+Industries du matériel électronique professionnel
+3351 	Industrie de l'équipement de télécommunication
+3352 	Industrie des pièces et des composantes électroniques
+3359 	Autres industries du matériel électronique et de communication
+ 
+Industries des machines pour bureaux, magasins et commerces
+3361 	Industrie des ordinateurs et de leurs unités périphériques
+3369 	Autres industries des machines pour bureaux, magasins et commerces 	
+ 
+Industries du matériel électrique d'usage industriel
+3371 	Industrie des transformateurs électriques
+3372 	Industrie du matériel électrique de commutation et de protection
+3379 	Autres industries du matériel électrique d'usage industriel
+ 
+Industrie des fils et des câbles électriques
+3381 	Industrie des fils et des câbles électriques
+ 
+Autres industries de produits électriques
+3391 	Industrie des accumulateurs
+3392 	Industrie des dispositifs de câblage non porteurs de courant
+3399 	Autres industries de produits électriques
+ 
+Industries des produits minéraux non métalliques
+ 
+Industries des produits en argile
+3511 	Industrie des produits en argile (argile canadienne)
+3512 	Industrie des produits en argile (argile importée)
+ 
+Industrie du ciment
+3521 	Industrie du ciment
+ 
+Industrie des produits en pierre
+3531 	Industrie des produits en pierre
+ 
+Industries des produits en béton
+3541 	Industrie des tuyaux en béton
+3542 	Industrie des produits de construction en béton
+3549 	Autres industries de produits en béton
+ 
+Industrie du béton préparé
+3551 	Industrie du béton préparé
+ 
+Industries du verre et des articles en verre
+3561 	Industrie des contenants en verre
+3562 	Industrie des produits en verre (sauf les contenants en verre)
+ 
+Industrie des abrasifs
+3571 	Industrie des abrasifs
+ 
+Industrie de la chaux
+3581 	Industrie de la chaux
+ 
+Autres industries de produits minéraux non métalliques
+3591 	Industrie des produits réfractaires
+3592 	Industrie des produits en amiante
+3593 	Industrie des produits en gypse
+3594 	Industrie des matériaux isolants de minéraux non métalliques
+3599 	Autres industries de produits minéraux non métalliques
+ 
+Industries des produits du pétrole et du charbon
+ 
+Industries des produits raffinés du pétrole
+3611 	Industrie des produits pétroliers raffinés (sauf les huiles de graissage et les graisses lubrifiantes) 	
+3612 	Industrie des huiles de graissage et des graisses lubrifiantes
+ 
+Autres industries des produits du pétrole et du charbon
+3699 	Autres industries des produits du pétrole et du charbon
+ 
+Industries chimiques
+ 
+Industries des produits chimiques d'usage industriel
+3711 	Industrie des produits chimiques inorganiques d'usage industriel
+3712 	Industrie des produits chimiques organiques d'usage industriel
+ 
+Industries des produits chimiques d'usage agricole
+3721 	Industrie des engrais chimiques et des engrais composés
+3729 	Autres industries des produits chimiques d'usage agricole
+ 
+Industrie des matières plastiques et des résines synthétiques
+3731 	Industrie des matières plastiques et des résines synthétiques
+ 
+Industrie des produits pharmaceutiques et des médicaments
+3741 	Industrie des produits pharmaceutiques et des médicaments
+ 
+Industrie des peintures et vernis
+3751 	Industrie des peintures et vernis
+ 
+Industrie des savons et composés pour le nettoyage
+3761 	Industrie des savons et composés pour le nettoyage
+ 
+Industrie des produits de toilette
+3771 	Industrie des produits de toilette
+ 
+Autres industries des produits chimiques
+3791 	Industrie des encres d'imprimerie
+3792 	Industrie des adhésifs
+3793 	Industrie des explosifs et munitions
+3799 	Autres industries des produits chimiques
+ 
+Autres industries manufacturières
+ 
+Industries du matériel scientifique et professionnel
+3911 	Industrie des instruments d'indication, d'enregistrement et de commande 	
+3912 	Autres industries des instruments et produits connexes
+3913 	Industrie des horloges et des montres
+3914 	Industrie des articles ophtalmiques
+3915 	Industries des appareils orthopédiques
+ 
+Industries de la bijouterie et de l'orfèvrerie
+3921 	Industrie de la bijouterie et de l'orfèvrerie
+3922 	Industrie de l'affinage secondaire de métaux précieux
+ 
+Industries des articles de sport et des jouets
+3931 	Industrie des articles de sport
+3932 	Industrie des jouets et jeux
+3933 	Industrie des bicyclettes
+ 
+Industrie des enseignes et étalages
+3971 	Industrie des enseignes et étalages
+ 
+Autres industries des produits manufacturés
+3991 	Industrie des balais, brosses et vadrouilles
+3992 	Industrie des boutons, boucles et attaches pour vêtements
+3993 	Industrie des carreaux, dalles et linoléums
+3994 	Industrie de la fabrication de supports d'enregistrement et de la reproduction du son 	
+3996 	Industrie des instruments de musique
+3997 	Industrie des articles de bureau et fournitures pour artistes (sauf les articles en papier) 	 
+3999 	Autres industries de produits manufacturés
+ 
+Constructeurs, promoteurs et entrepreneurs généraux
+ 
+Promotion et construction de bâtiments résidentiels
+4011 	Promotion et construction de maisons individuelles
+4012 	Promotion et construction d'autres types de constructions résidentielles 	
+4013 	Rénovation de bâtiments résidentiels
+ 
+Promotion et construction de bâtiments non résidentiels
+4021 	Bâtiments industriels légers et manufactures
+4022 	Bâtiments commerciaux
+4023 	Bâtiments d'institutions
+4024 	Rénovation de bâtiments non résidentiels
+ 
+Travaux de génie
+4031 	Centrales d'énergie et infrastructures connexes (sauf les lignes de transmission) 	
+4032 	Infrastructures pétrolières ou gazières et constructions connexes (sauf les pipelines) 	 
+4033 	Oléoducs et gazoducs
+4034 	Grosses structures industrielles
+4035 	Routes, rues et ponts
+4036 	Systèmes d'adduction d'eau et réseaux d'égouts
+4037 	Lignes de transmission d'énergie et de télécommunication
+4039 	Autres travaux de génie
+ 
+Entrepreneurs spécialisés
+ 
+Travaux sur chantier
+4211 	Démolition
+4212 	Forage de puits d'eau
+4213 	Installation de fosses septiques
+4214 	Travaux d'excavation et de nivellement
+4215 	Location d'équipement (avec opérateur)
+4216 	Travaux d'asphaltage
+4217 	Pose de clôtures
+4219 	Autres travaux sur chantier
+ 
+Travaux de charpenterie et travaux connexes
+4221 	Enfoncement des pieux
+4222 	Travaux de coffrage
+4223 	Renforçage du béton à l'acier
+4224 	Coulage et finition du béton
+4225 	Mise en place de béton précontraint
+4226 	Gros oeuvre et charpenterie
+4227 	Montage de charpentes d'acier
+4229 	Autres travaux de charpente et travaux connexes
+ 
+Travaux de finition à l'extérieur
+4231 	Travaux de maçonnerie
+4232 	Pose et réparation de revêtement
+4233 	Installation de la verrerie et de la vitrerie
+4234 	Travaux d'isolation
+4235 	Pose de bardeaux pour toits
+4236 	Installation de couvertures en tôle ou en tout autre matériau
+4239 	Autres travaux de finition à l'extérieur
+ 
+Installations mécaniques, plomberie, chauffage et climatisation
+4241 	Plomberie
+4242 	Installation de canalisations de gaz et de systèmes de chauffage à air chaud 	
+4243 	Installation de systèmes de chauffage par fluide caloporteur et de systèmes de climatisation 	 
+4244 	Tôlerie et autres travaux sur conduites
+ 
+Travaux de mécanique spécialisée
+4251 	Travaux de tuyauterie industrielle
+4252 	Installation d'extincteurs automatiques d'incendie
+4253 	Installation d'équipements de réfrigération commerciale
+4254 	Installation d'équipements de contrôle de l'environnement
+4255 	Installation et montage de gros équipements
+4256 	Installation d'isolation thermique
+4259 	Autres travaux de mécanique spécialisée
+ 
+Travaux d'électricité
+4261 	Travaux d'électricité
+ 
+Travaux de finition à l'intérieur
+4271 	Plâtrage et crépissage
+4272 	Travaux de murs secs
+4273 	Pose de matériaux acoustiques
+4274 	Menuiserie
+4275 	Travaux de peinture et de décoration
+4276 	Pose de terrazzo et de carrelages
+4277 	Pose de revêtements de plancher en bois dur
+4278 	Pose de revêtements de sol souples et de tapis
+4279 	Autres travaux de finition à l'intérieur
+ 
+Autres travaux spécialisés
+4291 	Installation d'ascenseurs et d'escaliers mécaniques
+4292 	Installation d'éléments d'ornementation et autre pièces travaillées en métal 	
+4293 	Installation de piscines privées
+4299 	Autres travaux spécialisés
+ 
+Services relatifs à la construction
+ 
+Gestion de travaux de construction
+4411 	Gestion de travaux de construction
+ 
+Autres services relatifs à la construction
+4491 	Lotissement
+4499 	Autres services relatifs à la construction
+ 
+Transports
+ 
+Transports aériens
+4511 	Transports aériens (vols réguliers ou nolisés)
+4513 	Transports aériens spécialisés (vols non réguliers)
+ 
+Services relatifs aux transports aériens
+4521 	Exploitation et entretien d'aéroports
+4522 	Location d'aéronefs
+4523 	Entretien d'aéronefs
+4529 	Autres services relatifs aux transports aériens
+ 
+Transports et services ferroviaires
+4531 	Transports ferroviaires
+4532 	Services relatifs aux transports ferroviaires
+ 
+Transports par eau
+4541 	Transports par eau de voyageurs et de marchandises
+4542 	Traversiers
+4543 	Remorquage maritime
+4544 	Affrètement de navires
+4549 	Autres transports par eau
+ 
+Services relatifs aux transports par eau
+4551 	Manutention de cargaisons
+4552 	Administration portuaire
+4553 	Sauvetage maritime
+4554 	Services de pilotage de navires
+4555 	Agences d'expédition maritime
+4559 	Autres services relatifs aux transports par eau
+ 
+Camionnage 	
+4561 	Camionnage de marchandises ordinaires
+4562 	Déménagement et entreposage de biens usagés
+4563 	Camionnage en vrac par camion-citerne
+4564 	Autres camionnages en vrac
+4565 	Camionnage de produits forestiers
+4569 	Autres camionnages
+ 
+Transports en commun
+4571 	Transports en commun urbains
+4572 	Transports en commun interurbains et ruraux
+4573 	Transports par autobus scolaires
+4574 	Transports par autobus nolisés et d'excursion
+4575 	Services de limousine aux aéroports et aux gares
+ 
+Autres transports
+4581 	Taxi
+4589 	Autres transports
+ 
+Autres services relatifs aux transports
+4591 	Entretien des routes, rues et ponts
+4592 	Services aux commerces transitaires
+4599 	Autres services relatifs aux transports
+ 
+Transports par pipelines
+ 
+Transports par pipelines
+4611 	Transport du gaz naturel par gazoduc
+4612 	Transport du pétrole brut par oléoduc
+4619 	Autres transports par pipelines
+ 
+Entreposage
+ 
+Silos à grain 	
+4711 	Silos à grain
+ 
+Autres services d'entreposage
+4791 	Entrepôts frigorifiques
+4799 	Autres services d'entreposage
+ 
+Communications
+ 
+Radiodiffusion et télévision
+4811 	Radiodiffusion
+4812 	Télévision
+4813 	Radiodiffusion et télévision intégrées
+4814 	Câblovision
+ 
+Télégraphie et téléphonie
+4821 	Réseaux de télégraphie et de câbles
+4822 	Réseaux de téléphonie
+4823 	Fournisseurs de services Internet et sites portails de recherche
+4824 	Revendeurs de services de télécommunications
+ 
+Autres services de télécommunications
+4839 	Autres services de télécommunications
+ 
+Services postaux et services de messagers
+4841 	Services postaux
+4842 	Services de messagers
+ 
+Autres services publics
+ 
+Production et distribution d'électricité
+4911 	Production et distribution d'électricité
+ 
+Distribution de gaz
+4921 	Distribution de gaz
+ 
+Distribution d'eau
+4931 	Distribution d'eau
+ 
+Autres services publics
+4999 	Autres services publics
+ 
+Commerce de gros de produits agricoles
+ 
+Commerce de gros de produits agricoles
+5011 	Commerce de gros d'animaux vivants
+5012 	Commerce de gros de grains et céréales
+5013 	Commerce de gros de peaux et fourrures brutes
+5019 	Autres types de commerce de gros de produits agricoles
+ 
+Commerce de gros de produits pétroliers
+ 
+Commerce de gros de produits pétroliers
+5111 	Commerce de gros de produits du gaz et du gaz propane
+5112 	Commerce de gros de produits pétroliers
+ 
+Commerce de gros de produits alimentaires, de boissons, de médicaments et de tabac
+ 
+Commerce de gros de produits alimentaires
+5211 	Commerce de gros de confiseries
+5212 	Commerce de gros de produits alimentaires congelés et emballés
+5213 	Commerce de gros de produits laitiers
+5214 	Commerce de gros de volaille et d'œufs
+5215 	Commerce de gros de poissons et fruits de mer
+5216 	Commerce de gros de fruits et légumes frais
+5217 	Commerce de gros de viandes et produits de la viande
+5218 	Commerce de gros de produits de boulangerie et de pâtisserie
+5219 	Autres types de commerce de gros de produits alimentaires
+ 
+Commerce de gros de boissons
+5221 	Commerce de gros de boissons non alcooliques
+5222 	Commerce de gros de boissons alcooliques
+5223 	Grossistes-distributeurs d'autres produits alimentaires spéciaux
+5230 	Commerce de gros de médicaments et de produits de toilette
+5231 	Commerce de gros de médicaments
+5232 	Commerce de gros de savons et de produits de toilette
+5239 	Commerce de gros de produits pharmaceutiques divers et d'autres produits de toilette 	 
+ 
+Commerce de gros de produits du tabac
+5241 	Commerce de gros de produits du tabac
+ 
+Commerce de gros de vêtements, chaussures, tissus et mercerie 	
+Commerce de gros de vêtements et de chaussures
+5311 	Commerce de gros de vêtements et d'articles d'habillement pour hommes 	
+5312 	Commerce de gros de vêtements de dessus pour femmes et enfants
+5313 	Commerce de gros de bas, chaussettes, sous-vêtements et articles d'habillement pour femmes et enfants 	
+5314 	Commerce de gros de chaussures
+5315 	Commerce de gros de fourrures préparées
+5316 	Grossistes-distributeurs de vêtements et d'accessoires vestimentaires 	
+5319 	Autres types de commerce de gros de vêtements
+ 
+Commerce de gros de tissus et mercerie
+5321 	Commerce de gros de tissus
+5329 	Commerce de gros de mercerie
+ 
+Commerce de gros d'articles ménagers
+ 
+Commerce de gros d'appareils ménagers électriques et électroniques
+5411 	Commerce de gros d'appareils ménagers électriques
+5412 	Commerce de gros d'appareils ménagers électroniques
+ 
+Commerce de gros de meubles de maison
+5421 	Commerce de gros de meubles de maison
+ 
+Commerce de gros d'accessoires ménagers d'ameublement
+5431 	Commerce de gros de porcelaine, verrerie, faïence et poterie
+5432 	Commerce de gros de revêtements de sol
+5433 	Commerce de gros de linge de maison, tentures et autres articles de textiles 	
+5439 	Autres types de commerce de gros d'articles ménagers
+ 
+Commerce de gros de véhicules automobiles, pièces et accessoires 	 
+ 
+Commerce de gros de véhicules automobiles
+5511 	Commerce de gros d'automobiles
+5512 	Commerce de gros de camions et d'autobus
+5513 	Agents et courtiers (véhicules automobiles et pièces)
+5519 	Autres types de commerce de gros de véhicules automobiles
+ 
+Commerce de gros de pièces et accessoires de véhicules automobiles
+5521 	Commerce de gros de pneus et chambres à air
+5529 	Autres types de commerce de gros de pièces et accessoires pour véhicules automobiles 	 
+ 
+Commerce de gros d'articles de quincaillerie, de plomberie et de chauffage et de matériaux de construction 	
+ 
+Commerce de gros de métaux et produits en métal
+5611 	Commerce de gros de formes primaires et profilés de charpente en fer et en acier 	
+5612 	Autres types de commerce de gros de produits en fer et en acier
+5613 	Commerce de gros de métaux non ferreux et produits en métaux non ferreux 	
+5619 	Commerce de gros d'une combinaison de métaux et produits en métal 	
+ 
+Commerce de gros d'articles de quincaillerie et de matériel et fournitures de plomberie, de chauffage et de climatisation
+5621 	Commerce de gros d'articles de quincaillerie
+5622 	Commerce de gros de matériel et fournitures de plomberie, de chauffage et de climatisation 	 
+ 
+Commerce de gros de bois et matériaux de construction
+5631 	Commerce de gros de bois de construction, de contre-plaqués et de bois travaillé 	
+5632 	Commerce de gros de peintures, vitres et papiers peints
+5633 	Commerce de gros de bois de sciage
+5639 	Autres types de commerce de gros de matériaux de construction
+ 
+Commerce de gros de machines, matériel et fournitures agricoles 	
+ 
+Commerce de gros de machines, matériel et fournitures agricoles
+5711 	Commerce de gros de machines, matériel et fournitures agricoles
+5712 	Grossistes-distributeurs de machines et de matériel pour l'agriculture, l'entretien des pelouses et le jardinage
+ 
+Commerce de gros de machines, matériel et fournitures pour la construction, l'exploitation forestière et l'extraction minière 	
+5721 	Commerce de gros de machines, matériel et fournitures pour la construction et l'exploitation forestière 	
+5722 	Commerce de gros de machines, matériel et fournitures pour l'extraction minière 	
+ 
+Commerce de gros de machines, matériel et fournitures pour l'industrie
+5731 	Commerce de gros de machines, matériel et fournitures pour l'industrie 	
+ 
+Commerce de gros de machines, matériel et fournitures électriques et électroniques 	
+5741 	Commerce de gros de fournitures pour canalisations électriques et de matériaux d'installations électriques 	
+5742 	Commerce de gros de machines, matériel et fournitures de production et de transmission d'électricité 	
+5743 	Commerce de gros de machines, matériel et fournitures électroniques (sauf ordinateurs et matériel connexe)
+5744 	Commerce de gros d'ordinateurs, machines et matériel connexes et progiciels 	
+5749 	Autres types de commerce de machines, matériel et fournitures électriques et électroniques 	 
+ 
+Autres types de commerce de gros de machines, matériel et fournitures
+5791 	Commerce de gros de machines, matériel et fournitures de bureau et de magasin 	
+5792 	Commerce de gros de machines, matériel et fournitures pour les entreprises de services 	 
+5793 	Commerce de gros de machines, matériel et fournitures d'usage professionnel 	
+5794 	Grossistes-distributeurs de machines, matériel et fournitures d'usage professionnel 	
+5799 	Autres types de commerce de gros de machines, matériel et fournitures 	
+ 
+Commerce de gros de produits divers
+ 
+Commerce de gros de rebuts et de matériaux de récupération
+5911 	Récupération et démontage d'automobiles
+5912 	Commerce de gros de ferraille et vieux métaux
+5913 	Commerce de gros de vieux papiers et vieux cartons
+5919 	Autres types de commerce de gros de rebuts et matériaux de récupération 	
+ 
+Commerce de gros de papier et produits du papier
+5921 	Commerce de gros de papier journal
+5922 	Commerce de gros de papeterie et fournitures de bureau
+5923 	Commerce de gros de papiers fins
+5929 	Autres types de commerce de gros de papier et produits du papier
+ 
+Commerce de gros de produits chimiques et autres fournitures agricoles
+5931 	Commerce de gros d'aliments pour animaux
+5932 	Commerce de gros de semences
+5939 	Commerce de gros de produits chimiques et autres fournitures agricoles 	
+ 
+Commerce de gros de jouets et d'articles de loisir et de sport
+5941 	Commerce de gros de jouets, d'articles de fantaisie et de pièces pour feux d'artifice 	
+5942 	Commerce de gros d'articles de loisir et de sport
+ 
+Commerce de gros de matériel et fournitures photographiques et d'instruments et accessoires de musique 	
+5951 	Commerce de gros de matériel et fournitures photographiques
+5952 	Commerce de gros d'instruments et accessoires de musique
+ 
+Commerce de gros de bijoux et de montres
+5961 	Commerce de gros de bijoux et de montres
+ 
+Commerce de gros de produits chimiques d'usage ménager et industriel
+5971 	Commerce de gros de produits chimiques d'usage ménager et industriel 	
+ 
+Commerce de gros de marchandises diverses
+5981 	Commerce de gros de marchandises diverses
+ 
+Autres types de commerce de gros
+5991 	Commerce de gros de livres, périodiques et journaux
+5992 	Commerce de gros de marchandise d'occasion (sauf machines et véhicules automobiles) 	 
+5993 	Commerce de gros de produits forestiers
+5999 	Autres types de commerce de gros
+ 
+Commerce de détail d'aliments, de boissons, de médicaments et de tabac 	
+ 
+Magasins d'alimentation
+6011 	Supermarchés d'alimentation
+6012 	Épiceries (sauf supermarchés)
+6013 	Boulangeries et pâtisseries
+6014 	Confiseries et magasins de noix
+6015 	Magasins de fruits et légumes
+6016 	Marchés de viande
+6019 	Autres magasins d'alimentation spécialisés n.c.a.
+ 
+Commerce de détail de boissons alcooliques
+6021 	Commerce de détail de boissons alcooliques
+ 
+Commerce de détail de médicaments sur ordonnance et de médicaments brevetés 	
+6032 * 	Pharmacies (vente de médicaments au détail et consultation)
+6033 	Commerce de détail de médicaments brevetés et de produits de toilette 	
+ 
+Commerce de détail de produits du tabac et de journaux
+6041 	Commerce de détail de produits du tabac et de journaux
+ 
+Commerce de détail de chaussures, vêtements, tissus et filés 	
+ 
+Commerce de détail de chaussures
+6111 	Commerce de détail de chaussures pour femmes
+6112 	Commerce de détail de chaussures pour hommes
+6113 	Commerce de détail de chaussures pour enfants
+6114 	Commerce de détail de chaussures pour la famille
+ 
+Commerce de détail de vêtements pour hommes
+6121 	Commerce de détail de vêtements pour hommes
+ 
+Commerce de détail de vêtements pour femmes
+6131 	Commerce de détail de vêtements pour femmes
+6132 	Commerce de détail de lingerie pour femmes
+ 
+Autres types de commerce de détail de vêtements
+6141 	Commerce de détail de vêtements pour enfants
+6142 	Commerce de détail de vêtements de fourrure
+6143 	Autres types de commerce de détail de vêtements
+ 
+Commerce de détail de tissus et de filés
+6151 	Commerce de détail de tissus et de filés
+ 
+Commerce de détail de meubles, appareils et accessoires d'ameublement de maison
+ 
+Commerce de détail de meubles de maison
+6211 	Commerce de détail de meubles de maison (avec appareils ménagers et accessoires d'ameublement) 	
+6212 	Commerce de détail de meubles de maison (sans appareils ménagers ni accessoires d'ameublement) 	
+6213 	Ateliers de réparation de meubles
+ 
+Commerce de détail d'appareils ménagers, de téléviseurs, de postes de radio et d'appareils stéréophoniques 	
+6221 	Commerce de détail d'appareils ménagers, de téléviseurs, de postes de radio et d'appareils stéréophoniques
+6222 	Commerce de détail de téléviseurs, de postes de radio et d'appareils stéréophoniques 	 
+6223 	Ateliers de réparation d'appareils ménagers
+6224 	Ateliers de réparation de téléviseurs, de postes de radio et d'appareils stéréophoniques 	 
+6225 	Magasins d'appareils ménagers, de téléviseurs et d'autres appareils électroniques 	
+6226 	Magasins d'ordinateurs et de logiciels
+ 
+Commerce de détail d'accessoires d'ameublement
+6231 	Commerce de détail de revêtements de sol
+6232 	Commerce de détail de tentures
+6233 	Commerce de détail d'appareils d'éclairage électrique
+6239 	Autres types de commerce de détail d'accessoires d'ameublement
+ 
+Commerce de détail de véhicules automobiles, de pièces et d'accessoires 	
+ 
+Concessionnaires d'automobiles
+6311 	Concessionnaires d'automobiles neuves
+6312 	Concessionnaires d'automobiles d'occasion
+ 
+Commerce de détail de véhicules de loisir
+6321 	Commerce de détail de roulottes motorisées et de roulottes de voyage 	
+6322 	Commerce de détail de bateaux, de moteurs hors-bord et d'accessoires pour bateaux 	 
+6323 	Commerce de détail de motocyclettes et de motoneiges
+6329 	Autres types de commerce de détail de véhicules de loisir
+ 
+Stations-service
+6331 	Stations-service
+ 
+Commerce de détail de pièces et d'accessoires pour véhicules automobiles
+6341 	Commerce de détail de fournitures pour la maison et pour l'automobile
+6342 	Commerce de détails de pneus, d'accumulateurs, de pièces et d'accessoires neufs pour l'automobile 	
+6343 	Commerce de détail de pneus, d'accumulateurs, de pièces et d'accessoires usagés pour l'automobile 	
+ 
+Ateliers de réparation de véhicules automobiles
+6351 	Garages (réparations générales)
+6352 	Ateliers de peinture et de carrosserie
+6353 	Ateliers de remplacement de silencieux
+6354 	Ateliers de remplacement de glaces de véhicules automobiles
+6355 	Ateliers de réparation et de remplacement de boîtes de vitesses de véhicules automobiles 	 
+6359 	Autres ateliers de réparation de véhicules automobiles
+ 
+Autres types de commerce de détail pour véhicules automobiles
+6391 	Lave-autos
+6392 	Commerce de détail de radios pour véhicules automobiles
+6399 	Autres types de commerce de détail pour véhicules automobiles
+ 
+Commerce de détail de marchandises diverses
+6411 	Magasins à rayons
+6412 	Magasins généraux
+6413 	Autres magasins de marchandises diverses
+ 
+Autres types de commerce de détail
+ 
+Librairies et papeteries
+6511 	Librairies et papeteries
+ 
+Fleuristes et centres de jardinage
+6521 	Fleuristes
+6522 	Centres de jardinage
+ 
+Commerce de détail de quincaillerie
+6531 	Quincailleries
+6532 	Commerce de détail de peinture, de vitres et de papier peint
+6533 	Commerce de détail de bois et de matériaux de construction
+6534 	Marchands d'autres matériaux de construction
+ 
+Commerce de détail d'articles de sport et de bicyclettes
+6541 	Commerce de détail d'articles de sport
+6542 	Commerce de détail de bicyclettes
+ 
+Commerce de détail d'instruments de musique et de disques
+6551 	Commerce de détail d'instruments de musique
+6552 	Commerce de détail de disques et de bandes magnétiques
+ 
+Bijouteries et ateliers de réparation de montres et de bijoux
+6561 	Bijouteries
+6562 	Ateliers de réparation de montres et de bijoux
+ 
+Commerce de détail d'appareils et de fournitures photographiques
+6571 	Commerce de détail d'appareils et de fournitures photographiques
+ 
+Commerce de détail de jouets, d'articles de loisir, d'articles de fantaisie et de souvenirs 	
+6581 	Commerce de détail de jouets et d'articles de loisir
+6582 	Commerce de détail d'objets d'art et d'artisanat, de cadeaux, d'articles de fantaisie et de souvenirs 	
+6585 	Magasins de matériel d'encadrement
+ 
+Autres types de commerce de détail
+6591 	Commerce de détail de marchandise d'occasion
+6592 	Commerce de détail de produits optiques
+6593 	Galeries d'art et magasins de fournitures pour artistes
+6594 	Commerce de détail de bagages et de maroquinerie
+6595 	Commerce de détail de monuments funéraires et de pierres tombales
+6596 	Commerce de détail d'animaux de maison
+6597 	Commerce de détail de pièces de monnaie et de timbres
+6598 	Commerce de détail de maisons mobiles
+6599 	Autres types de commerce de détail
+ 
+Commerce de détails hors magasin
+ 
+Exploitants de distributeurs automatiques
+6911 	Exploitants de distributeurs automatiques
+ 
+Entreprises de vente directe
+6921 	Entreprises de vente directe
+ 
+Intermédiaires financiers de dépôts
+ 
+Banque centrale
+7011 	Banque centrale
+ 
+Banques à charte et autres intermédiaires de type bancaire
+7021 	Banques à charte
+7029 	Autres intermédiaires de type bancaire
+ 
+Sociétés de fiducie
+7031 	Sociétés de fiducie
+ 
+Sociétés de prêts hypothécaires recevant des dépôts
+7041 	Sociétés de prêts hypothécaires recevant des dépôts
+ 
+Caisses d'épargne et de crédit
+7051 	Caisses locales d'épargne et de crédit
+7052 	Caisses centrales d'épargne et de crédit
+ 
+Sociétés de crédit à la consommation et aux entreprises
+ 
+Sociétés de prêts à la consommation
+7111 	Sociétés de prêts à la consommation
+ 
+Sociétés de financement des entreprises
+7121 	Sociétés de financement des ventes
+7122 	Sociétés de cartes de crédit
+7123 	Sociétés d'affacturage
+7124 	Sociétés de crédit-bail
+7125 	Sociétés de capital de risque
+7129 	Autres sociétés de financement des entreprises
+ 
+Sociétés d'investissement
+ 
+Sociétés de placement de portefeuille
+7211 	Sociétés de placement (fonds mutuels)
+7212 	Fonds d'épargne-retraite
+7213 	Caisses séparées
+7214 	Sociétés d'investissement
+7215 	Sociétés de portefeuille (holdings)
+ 
+Sociétés de prêts hypothécaires
+7221 	Sociétés de placement hypothécaire
+7222 	Fiducies de placement immobilier
+7229 	Autres sociétés de prêts hypothécaires
+ 
+Autres intermédiaires d'investissement
+7291 	Caisses de retraite en fiducie
+7292 	Fonds de succession, de fiducie et d'agence
+7299 	Autres intermédiaires d'investissement
+ 
+Sociétés d'assurances
+ 
+Sociétés d'assurance-vie
+7311 	Sociétés d'assurance-vie
+ 
+Sociétés d'assurance-dépôts
+7321 	Sociétés d'assurance-dépôts
+ 
+Sociétés d'assurance biens et risques divers
+7331 	Sociétés d'assurance-maladie
+7339 	Autres sociétés d'assurance biens et risques divers
+ 
+Autres intermédiaires financiers
+ 
+Courtiers et négociants en valeurs mobilières
+7411 	Négociants de titres
+7412 	Courtiers boursiers
+7413 	Courtiers en marchandises
+7414 	Commerce de contrats de marchandises
+ 
+Courtiers en prêts hypothécaires
+7421 *** 	Agences ou courtiers en prêts hypothécaires
+ 
+Bourses des valeurs et des marchandises
+7431 	Bourses des valeurs
+7432 	Bourses des marchandises
+ 
+Autres intermédiaires financiers
+7499 	Autres intermédiaires financiers
+ 
+Services immobiliers (sauf les lotisseurs)
+ 
+Exploitants de bâtiments et de logements
+7511 	Exploitants de bâtiments résidentiels et de logements
+7512 	Exploitants de bâtiments non résidentiels
+ 
+Autres exploitants immobiliers
+7599 	Autres exploitants immobiliers
+ 
+Agences d'assurances et agences immobilières
+ 
+Agences d'assurances et agences immobilières
+7611 	Agences d'assurances
+7612 ** 	Agences ou courtiers immobiliers
+7613 	Experts en sinistres
+ 
+Services aux entreprises
+ 
+Bureaux de placement et services de location de personnel
+7711 	Bureaux de placement
+7712 	Services de location de personnel
+ 
+Services d'informatique et services connexes
+7721 	Services d'informatique
+7722 	Réparation et entretien de matériel informatique
+ 
+Services de comptabilité et de tenue de livres
+7731 	Bureaux de comptables
+7732 * 	Bureaux de comptables professionnels agréés
+7739 	Autres services de comptabilité et de tenue de livres
+ 
+Services de publicité
+7741 	Agences de publicité
+7742 	Représentants de médias
+7743 	Étalages et panneaux d'affichage publicitaire en extérieur
+7748 * 	Bureaux d'urbanistes
+7749 	Autres services de publicité
+ 
+Bureaux d'architectes et d'ingénieurs et autres services scientifiques et techniques 	
+7751 * 	Bureaux d'architectes
+7752 * 	Bureaux d'ingénieurs
+7753 	Services de laboratoires de recherches
+7754 	Services de prospection et de relevés géophysiques et géodésiques
+7755 * 	Bureaux d'arpenteurs-géomètres
+7756 * 	Bureaux de chimistes ou de chimistes professionnels
+7757 * 	Services de géologues, de géophysiciens ou d'hydrogéologues
+7758 * 	Bureaux d'ingénieurs forestiers
+7759 	Autres services techniques
+ 
+Études d'avocats et de notaires
+7761 * 	Études d'avocats ou de notaires, conseillers en loi, conseillers juridiques, membres du Barreau du Québec, procureurs, membres de la Chambre des notaires du Québec, notaires publics
+7762 * 	Bureaux de technologues professionnels, de technologues des sciences appliquées ou de techniciens professionnels
+7763 * 	Huissiers de justice
+ 
+Bureaux de conseillers
+7771 	Bureaux de conseillers en gestion
+7772 * 	Bureaux d'administrateurs agréés, conseillers en management certifiés
+7773 * 	Bureaux de conseillers en ressources humaines agréés ou de conseillers en relations industrielles agréés
+7774 * 	Bureaux d'évaluateurs agréés ou d'estimateurs agréés
+ 
+Autres services aux entreprises
+7791 	Services de sécurité et d'enquêtes
+7792 	Bureaux de crédit
+7793 	Agences de recouvrement
+7794 	Courtiers en douane
+7795 	Services de secrétariat téléphonique
+7796 	Services de reproduction
+7797 	Autres services spécialisés de design
+7798 * 	Traducteurs agréés, interprètes agréés ou terminologues agréés
+7799 	Autres services aux entreprises
+ 
+Services de l'administration fédérale
+ 
+Services de défense
+8111 	Services de défense
+ 
+Services de protection
+8121 	Tribunaux
+8122 	Services correctionnels
+8123 	Services de police
+8125 	Services de réglementation
+8129 	Autres services de protection
+ 
+Services relatifs au travail et à l'emploi et services d'immigration
+8131 	Services relatifs au travail et à l'emploi
+8132 	Services d'immigration
+8139 	Autres services relatifs au travail, à l'emploi et à l'immigration
+ 
+Affaires étrangères et aide internationale
+8141 	Affaires étrangères
+8142 	Aide internationale
+ 
+Services administratifs généraux
+8151 	Organismes des pouvoirs exécutif et législatif
+8152 	Gestion des finances et de l'économie
+8153 	Gestion de la fiscalité
+8154 	Gestion des affaires intergouvernementales
+8159 	Autres services administratifs généraux
+ 
+Gestion des ressources humaines
+8161 	Gestion des services de santé
+8162 	Gestion des services sociaux
+8163 	Gestion de l'éducation
+8164 	Gestion des loisirs et de la culture
+ 
+Gestion des services économiques
+8171 	Gestion des transports et des communications
+8172 	Gestion des programmes de conservation des richesses naturelles et de développement industriel 	
+8173 	Gestion de l'environnement
+8174 	Gestion de l'habitation
+8175 	Gestion de l'aménagement et de mise en valeur du territoire
+8176 	Gestion de la recherche
+ 
+Services de l'administration provinciale
+ 
+Services de protection
+8221 	Tribunaux
+8222 	Services correctionnels
+8223 	Services de police
+8224 	Services de lutte contre l'incendie
+8225 	Services de réglementation
+8229 	Autres services de protection
+ 
+Services relatifs au travail et à l'emploi
+8231 	Services relatifs au travail et à l'emploi
+ 
+Services administratifs généraux
+8251 	Organismes des pouvoirs exécutif et législatif
+8252 	Gestion des finances et de l'économie
+8253 	Gestion de la fiscalité
+8254 	Gestion des affaires intergouvernementales
+8259 	Autres services administratifs généraux
+ 
+Gestion des ressources humaines
+8261 	Gestion des services de santé
+8262 	Gestion des services sociaux
+8263 	Gestion de l'éducation
+8264 	Gestion des loisirs et de la culture
+ 
+Gestion des services économiques
+8271 	Gestion des transports et des communications
+8272 	Gestion des programmes de conservation des richesses naturelles et de développement industriel 	
+8273 	Gestion de l'environnement
+8274 	Gestion de l'habitation
+8275 	Gestion de l'aménagement et de la mise en valeur du territoire
+8276 	Gestion de la recherche
+ 
+Services des administrations locales
+ 
+Services de protection
+8321 	Tribunaux et services correctionnels
+8322 * 	Services de criminologie
+8323 	Services de police
+8324 	Services de lutte contre l'incendie
+8325 	Services de réglementation
+8329 	Autres services de protection
+8350 	Services administratifs généraux
+8351 	Organismes des pouvoirs exécutif et législatif
+8352 	Gestion des finances et de l'économie
+8353 	Gestion de la fiscalité
+8354 	Gestion des affaires intergouvernementales
+8359 	Autres services administratifs généraux
+ 
+Gestion des ressources humaines
+8361 	Gestion des services de santé
+8362 	Gestion des services sociaux
+8363 	Gestion de l'éducation
+8364 	Gestion des loisirs et de la culture
+ 
+Gestion des services économiques
+8371 	Gestion des transports
+8372 	Gestion des programmes de conservation des richesses naturelles et de développement industriel 	
+8373 	Gestion de l'environnement
+8374 	Gestion de l'habitation
+8375 	Gestion de l'aménagement et de la mise en valeur du territoire
+ 
+Organismes internationaux et autres organismes extraterritoriaux 	
+ 
+Organismes internationaux et autres organismes extraterritoriaux
+8411 	Organismes internationaux et autres organismes extraterritoriaux
+ 
+Services d'enseignement
+ 
+Enseignement maternel, primaire et secondaire
+8511 	Enseignement maternel, primaire et secondaire
+ 
+Enseignement postsecondaire non universitaire
+8521 	Enseignement postsecondaire non universitaire
+Enseignement universitaire
+8531 	Enseignement universitaire
+ 
+Enseignement de formation personnelle et populaire
+8541 	Enseignement de formation personnelle et populaire
+ 
+Musées et archives
+8551 	Musées et archives
+ 
+Bibliothèques 	
+8561 	Bibliothèques
+ 
+Autres services d'enseignement
+8591 	Autres services d'enseignement
+ 
+Services de santé et services sociaux
+ 
+Centres hospitaliers
+8611 	Centres hospitaliers de soins de courte durée
+8613 	Centres hospitaliers de soins prolongés pour convalescents
+8614 	Centres hospitaliers de soins prolongés pour malades à long terme
+ 
+Centres d'accueil
+8621 	Centres de transition
+8622 	Centres de réadaptation pour handicapés physiques
+8624 	Centres de réadaptation pour handicapés mentaux
+8625 	Centres de réadaptation pour mésadaptés sociaux
+8626 	Centres de réadaptation pour alcooliques et toxicomanes
+8627 	Centre d'hébergement pour des personnes victimes de violences
+8628 	Centre d'hébergement
+8629 	Centre d'aide et de lutte contre les agressions à caractère sexuel et centre d'aide aux victimes (CALACS)
+ 
+Services de soins de santé hors institution
+8631 	Centres locaux de services communautaires
+8632 * 	Sages-femmes
+8633 * 	Technologues en imagerie médicale dans le domaine du radiodiagnostic, technologues en imagerie médicale dans le domaine de la médecine nucléaire, technologues en radio-oncologie, technologues en électrophysiologie médicale
+ 
+Services sociaux hors institution
+8641 	Garderies pour enfants
+8644 	Centres de travail adapté
+8645 	Services de maintien à domicile
+8648 	Services d'aide de nature affective ou psychologique
+8649 	Centres de services sociaux
+ 
+Cabinets privés de médecins, de chirurgiens, de dentistes ou de pharmaciens
+8651 * 	Cabinets de médecins généralistes
+8652 * 	Cabinets de médecins ou de chirurgiens spécialistes
+8653 * 	Cabinets de dentistes
+8654 * 	Cabinets d'opticiens d'ordonnances
+8655 * 	Cabinets d'inhalothérapeutes, techniciens en inhalothérapie et anesthésie
+8656 * 	Cabinets d'acupuncteurs
+8657 * 	Hygiénistes dentaires
+8658 * 	Cabinets de chiropraticiens
+8659 * 	Cabinets d'audioprothésistes
+ 
+Cabinets d'autres praticiens du domaine de la santé
+8661 	Cabinets d'ostéopathes
+8662 * 	Cabinets d'infirmières et d'infirmiers
+8663 * 	Cabinets d'infirmières auxiliaires et d'infirmiers auxiliaires
+8664 * 	Cabinets de nutritionnistes, de diététistes ou de diététiciens
+8665 * 	Cabinets d'ergothérapeutes, de physiothérapeutes ou de thérapeutes en réadaptation physique, thérapeutes en physiothérapie, technicien(ne)s en réadaptation physique, technicien(ne)s en physiothérapie
+8666 * 	Cabinets d'optométristes
+8667 * 	Cabinets de podiatres ou cliniques podiatriques
+8668 * 	Cabinets de denturologistes
+8669 	Cabinets d'autres praticiens du domaine de la santé
+ 
+Cabinets de spécialistes du domaine des services sociaux
+8671 * 	Cabinets de psychologues
+8672 * 	Cabinets de travailleurs sociaux
+8673 * 	Cabinets de psychoéducateurs et de psychoéducatrices
+8674 * 	Cabinets de sexologues
+8675 * 	Cabinets de thérapeutes conjugaux et familiaux, thérapeutes conjugaux ou de thérapeutes familiaux
+8676 * 	Cabinets de conseillers d'orientation, d'orienteurs professionnels ou d'orienteurs
+8677 * 	Cabinets de pharmaciens (consultation)
+8678 * 	Cabinets d'orthophonistes ou d'audiologistes
+8679 	Cabinets d'autres spécialistes du domaine des services sociaux
+ 
+Services connexes aux établissements de santé
+8681 	Laboratoires médicaux
+8682 	Laboratoires radiologiques
+8683 	Laboratoires médicaux et radiologiques mixtes
+8684 	Laboratoires de santé publique
+8685 	Banques de sang
+8686 	Autres laboratoires du domaine de la santé
+8687 * 	Techniciens dentaires, techniciennes dentaires et laboratoires de prothèses dentaires
+8688 * 	Technologistes médicaux
+8689 	Services d'ambulance
+ 
+Associations et organismes des domaines de la santé et des services sociaux
+8691 	Associations et organismes de promotion des soins de santé et de sécurité publique 	 
+8692 	Organismes de réglementation en matière de soins de santé
+8693 	Organismes de recherche sur les soins de santé
+8694 	Organismes de planification et de soutien des services sociaux
+8699 	Autres associations et organismes des domaines de la santé et des services sociaux 	 
+ 
+Hébergement
+ 
+Hôtels, motels et camps pour touristes
+9111 	Hôtels et auberges routières
+9112 	Motels
+9113 	Camps et cabines pour touristes
+ 
+Pensions de famille et hôtels privés
+9121 	Pensions de famille et hôtels privés
+ 
+Terrains de camping et parcs à roulottes
+9131 	Terrains de camping et parcs à roulottes
+ 
+Pourvoyeurs de chasse et de pêche et camps de vacances
+9141 	Pourvoyeurs de chasse et de pêche
+9149 	Camps de vacances
+ 
+Restauration 	
+9210 	Services de restauration
+9211 	Restaurants avec permis d'alcool
+9212 	Restaurants sans permis d'alcool
+9213 	Services de mets à emporter
+9214 	Traiteurs
+9215 	Cabanes à sucre
+ 
+Tavernes, bars et boîtes de nuit
+9221 	Tavernes, bars et boîtes de nuit
+ 
+Services de divertissement et de loisirs
+ 
+Production et distribution de films et de matériel audiovisuel
+9611 	Production de films et de matériel visuel
+9612 	Distribution de films et de matériel visuel
+9613 	Laboratoires de films et de matériel visuel
+9614 	Services d'enregistrement du son
+9615 	Production de films et de vidéos
+9619 	Autres services relatifs aux films et au domaine de l'audiovisuel
+ 
+Projection de films cinématographiques
+9621 	Salles de cinéma ordinaires
+9622 	Projection de films en extérieur
+9629 	Autres salles de cinéma
+ 
+Théâtres et autres spectacles
+9631 	Agences de spectacles et d'artistes
+9632 	Artistes, auteurs et interprètes indépendants
+9639 	Autres théâtres et spectacles
+ 
+Sports commerciaux
+9641 	Clubs sportifs professionnels
+9642 	Athlètes professionnels et promoteurs indépendants
+9643 	Hippodromes
+9644 	Autres champs de course
+ 
+Clubs sportifs et services de loisirs
+9651 	Clubs de golf
+9652 	Clubs de curling
+9653 	Installations de ski
+9654 	Location de bateaux et ports de plaisance
+9655 	Autres services de divertissement et de loisirs
+9659 	Autres clubs sportifs et services de loisirs
+ 
+Loteries et jeux de hasard
+9661 	Loteries et jeux de hasard
+ 
+Autres services de divertissement et de loisirs
+9691 	Salles de quilles et salles de billard
+9692 	Parcs d'attractions, fêtes foraines et cirques
+9693 	Salles, studios et écoles de danse
+9694 	Jeux automatiques
+9695 	Pistes de patinage à roulettes
+9696 	Jardins botaniques et zoologiques
+9697 	Centres récréatifs
+9699 	Autres services de divertissement et de loisirs
+ 
+Services personnels et domestiques
+ 
+Salons de coiffure et salons de beauté
+9711 	Salons de coiffure pour hommes
+9712 	Salons de beauté pour femmes
+9713 	Salons de coiffure et de beauté pour hommes et femmes
+9714 	Autres services de soins personnels
+9715 	Vente de services de bronzage artificiel
+ 
+Services de blanchissage et de nettoyage à sec
+9721 	Blanchissage ou nettoyage à sec mécanisés
+9722 	Distributeurs ou agents de nettoyeurs à sec
+9723 	Blanchissage ou nettoyage à sec libre-service
+9724 	Entretien, pressage ou réparation de vêtements
+9725 	Fourniture de linge
+9726 	Nettoyage de moquettes
+9729 	Autres services de blanchissage et de nettoyage à sec
+ 
+Pompes funèbres
+9731 	Salons funéraires
+9732 	Cimetières et crématoriums
+ 
+Ménages 	
+9741 	Ménages
+ 
+Autres services personnels et domestiques
+9791 	Cordonneries
+9792 	Nettoyage, réparation et entreposage de fourrures
+9799 	Autres services personnels et domestiques
+ 
+Associations
+ 
+Organisations religieuses
+9811 	Organisations religieuses
+ 
+Associations commerciales
+9821 	Associations commerciales
+ 
+Associations professionnelles
+9831 	Associations professionnelles du domaine de la santé et des services sociaux 	
+9839 	Autres associations professionnelles
+ 
+Syndicats ouvriers
+9841 	Syndicats ouvriers
+ 
+Organisations politiques
+9851 	Organisations politiques
+ 
+Organisations civiques et amicales
+9861 	Organisations civiques et amicales
+ 
+Autres services
+ 
+Services de location de machines et matériel industriels
+9911 	Location de machines et matériel industriels
+9912 	Location d'appareils audiovisuels
+9913 	Location de meubles et de machines de bureau
+9914 	Location d'équipement, de matériel et d'outils
+9919 	Autres services de location
+ 
+Services de location d'automobiles et de camions
+9921 	Services de location d'automobiles et de camions
+ 
+Photographes 	
+9931 	Photographes
+ 
+Autres services de réparation
+9941 	Réparation de moteurs électriques
+9942 	Soudage
+9949 	Autres services de réparation
+ 
+Services relatifs aux bâtiments et aux habitations
+9951 	Services de désinfection et d'extermination
+9952 	Services de nettoyage de vitres
+9953 	Services de conciergerie et d'entretien
+9959 	Autres services relatifs aux bâtiments et aux habitations
+ 
+Services de voyages
+9961 	Agences de voyages et de vente de billets
+9962 	Grossistes et commerçants en voyage
+ 
+Autres services
+9991 	Parcs et garages de stationnement
+9999 	Autres services
+	
+		
+	
+ 
+	
+	© Gouvernement du Québec 	
+		

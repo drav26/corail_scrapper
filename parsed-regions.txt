@@ -1,0 +1,34 @@
+-1,Sans critère de région
+8,Abitibi-Témiscamingue
+27,Alberta
+1,Bas-Saint-Laurent
+3,Capitale-Nationale
+17,Centre-du-Québec
+12,Chaudière-Appalaches
+28,Colombie-Britannique
+9,Côte-Nord
+5,Estrie
+11,Gaspésie--Îles-de-la-Madeleine
+31,Hors-Canada
+22,Île-du-Prince-Édouard
+14,Lanaudière
+15,Laurentides
+13,Laval
+25,Manitoba
+4,Mauricie
+16,Montérégie
+6,Montréal
+10,Nord-du-Québec
+23,Nouveau-Brunswick
+21,Nouvelle-Écosse
+34,Nunavut
+24,Ontario
+7,Outaouais
+0,Plus d'une région
+32,Québec plus autre(s) province(s)
+2,Saguenay--Lac-Saint-Jean
+26,Saskatchewan
+20,Terre-Neuve
+29,Territoires du Nord-Ouest
+30,Yukon
+33,Toutes les régions
