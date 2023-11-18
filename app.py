@@ -15,7 +15,7 @@ from bs4 import BeautifulSoup
 #import corail_parser
 #import ctypes
 
-driver = webdriver.Chrome("chromedriver.exe")
+driver = webdriver.Chrome()
 url = 'https://www.corail.gouv.qc.ca/abonnement/acceder.do'
 
 

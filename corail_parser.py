@@ -1,7 +1,7 @@
 #!python3
 from operator import truediv
 import os, selenium, io
-from pathlib import Path
+from pathlib import Path, WindowsPath
 from urllib.request import url2pathname
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
@@ -10,8 +10,7 @@ import time
 from bs4 import BeautifulSoup 
 import pprint, re, datetime
 
-def Syndicat():
-
+class Syndicat:
 
     def __init__(self):
         self.nom =""
@@ -19,8 +18,8 @@ def Syndicat():
         self.region =""
         self.categorie =""
         self.nb_salaries = 0
-        self.date_signature = datetime.datetime()
-        self.date_expiration = datetime.datetime()
+        self.date_signature = None
+        self.date_expiration = None
         self.affiliation =""
         self.code_corail = 0
         self.duree = 0
@@ -35,7 +34,8 @@ def Syndicat():
         print('date_expiration : '+self.date_expiration)
         print('duree : '+self.duree)
         #print('affiliation : '+affiliation[:-1])
-        print('code_corail : '+str(codes_corail[iteration]))
+        #print('code_corail : '+str(codes_corail[iteration]))
+        print('code_corail :'+str(self.code_corail))
 
 syndicats =[]
 
@@ -62,10 +62,12 @@ for div in divs:
                     ii+=1
                     cell_list.append(str(ii)+div.get_text())
     i+=1
-print(cell_list)
+#print(cell_list)
 pprint.pprint(cell_list)
-iteration = 0
+iteration = 0 #??
 for code_corail in codes_corail:
+    print('traitons maintenant le code corail :'+str(code_corail))
+    
     syndicat = Syndicat()
     
     #split_cell = cell_list[2+(4*iteration)].split('\n')
@@ -102,8 +104,16 @@ for code_corail in codes_corail:
 
     duree_re = re.compile(r'( \d+)( mois)')
     syndicat.duree = duree_re.search(cell_list[3+(4*iteration)]).group(1).strip()
+    syndicat.code_corail = code_corail
+    
     iteration+=1
-    syndicats.append(syndicat)  
+    syndicats.append(syndicat)
+  
+
+for syndicat in syndicats:
+    syndicat.print()
+    ##dump un DB
+
 
 #for i in range (5):
 
