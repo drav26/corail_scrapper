@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Conventions par Syndicat</title>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 2em; background: #f9f9f9; }
+        .syndicat-block { background: white; padding: 1em; border-radius: 8px; margin-bottom: 2em; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        h2 { margin-top: 0; }
+        table { width: 100%; margin-top: 1em; }
+        th, td { padding: 8px; text-align: left; }
+        th { background-color: #eee; }
+        .pagination { margin-top: 2em; text-align: center; }
+        .pagination a { margin: 0 5px; padding: 8px 12px; text-decoration: none; border: 1px solid #ccc; border-radius: 4px; }
+        .pagination a.active { background-color: #007BFF; color: white; border-color: #007BFF; }
+    </style>
+</head>
+<body>
+    <h1>Visualisation des conventions par syndicat</h1>
+    <form method="get" action="/">
+        <input type="text" name="query" value="{{ query }}" placeholder="Recherche de syndicat">
+        <button type="submit">Rechercher</button>
+      </form>
+    {% for bloc in data %}
+        <div class="syndicat-block">
+            <h2>{{ bloc.syndicat }}</h2>
+            <p><strong>Affiliation :</strong> {{ bloc.affiliation }}</p>
+
+            {% for acc, convs in bloc.accreditations.items() %}
+                <h3>Accréditation : {{ acc }}</h3>
+                <table class="display">
+                    <thead>
+                        <tr>
+                            <th>Employeur</th>
+                            <th>Date signature</th>
+                            <th>Date expiration</th>
+                            <th>Durée</th>
+                            <th>Salariés</th>
+                            <th>Région</th>
+                            <th>Catégorie</th>
+                            <th>Code Corail</th>
+                            <th>Convention</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for c in convs %}
+                        <tr>
+                            <td>{{ c.employeur_nom }}</td>
+                            <td>{{ c.date_signature }}</td>
+                            <td>{{ c.date_expiration }}</td>
+                            <td>{{ c.duree }}</td>
+                            <td>{{ c.nb_salaries }}</td>
+                            <td>{{ c.region }}</td>
+                            <td>{{ c.categorie }}</td>
+                            <td>{{ c.code_corail }}</td>
+                            <td>
+                                {% if c.fichier %}
+                                    <a href="{{ c.fichier | replace('conventions/', '') }}" target="_blank">Télécharger</a>
+                                {% else %}
+                                    Non disponible
+                                {% endif %}
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            {% endfor %}
+        </div>
+    {% endfor %}
+
+    <div class="pagination">
+        {% for i in range(1, nb_pages + 1) %}
+            {% if i == page %}
+                <a class="active">{{ i }}</a>
+            {% else %}
+                <a href="/?page={{ i }}">{{ i }}</a>
+            {% endif %}
+        {% endfor %}
+    </div>
+
+    <script>
+        \$(document).ready(function () {
+            \$('table.display').DataTable({
+                language: {
+                    url: "https://cdn.datatables.net/plug-ins/1.13.4/i18n/fr-FR.json"
+                },
+                paging: false,
+                searching: true,
+                info: false
+            });
+        });
+    </script>
+</body>
+</html>
